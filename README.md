@@ -26,7 +26,7 @@
     <a href = "https://www.instagram.com/_loquete/">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-   <a href = "https://www.linkedin.com/in/Bianca-Loquete-1ba537269/">
+   <a href = "https://www.linkedin.com/in/BiancaLoquete-1ba537269/">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
   
